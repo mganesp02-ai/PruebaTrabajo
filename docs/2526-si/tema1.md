@@ -279,7 +279,7 @@ sudo smartctl -a /dev/nvme0
 
 ---
 
-## 7. Actividades Prácticas
+## 7. Actividades Prácticas de este tema
 
 ### Actividad 1: Informe de Hardware
 Ejecuta los siguientes comandos en tu VM Ubuntu y documenta los resultados en un archivo de texto:
