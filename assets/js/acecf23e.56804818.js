@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmi_proyecto_docu=self.webpackChunkmi_proyecto_docu||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/PruebaTrabajo/blog","blogTitle":"Blog","authorsListPath":"/PruebaTrabajo/blog/authors"}')}}]);
