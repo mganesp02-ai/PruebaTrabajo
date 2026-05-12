@@ -100,6 +100,12 @@ markdown: {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'siSidebar',
+            position: 'left',
+            label: 'Sistemas Informáticos',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
