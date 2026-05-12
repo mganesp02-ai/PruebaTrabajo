@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mganesp02', // Usually your GitHub org/user name.
+  organizationName: 'mganesp02-ai', // Usually your GitHub org/user name.
   projectName: 'PruebaTrabajo', // Usually your repo name.
  deploymentBranch: 'gh-pages', // Rama oculta que creará Docusaurus para alojar la web
   trailingSlash: false, 
